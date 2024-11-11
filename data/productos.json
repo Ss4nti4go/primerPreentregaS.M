@@ -1,0 +1,143 @@
+[
+    {
+      "id": "1",
+      "title": "Camiseta Deportiva",
+      "description": "Camiseta cómoda y transpirable, ideal para entrenamientos.",
+      "code": "CMT-001",
+      "price": 20.5,
+      "status": true,
+      "stock": 100,
+      "category": "Ropa",
+      "thumbnails": [
+        "/images/camiseta_deportiva_1.jpg",
+        "/images/camiseta_deportiva_2.jpg"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Zapatillas Running",
+      "description": "Zapatillas ligeras con gran amortiguación, perfectas para correr.",
+      "code": "ZAP-001",
+      "price": 75.0,
+      "status": true,
+      "stock": 50,
+      "category": "Calzado",
+      "thumbnails": [
+        "/images/zapatillas_running_1.jpg",
+        "/images/zapatillas_running_2.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Proteína Whey",
+      "description": "Proteína de alta calidad, ideal para la recuperación muscular.",
+      "code": "PROT-001",
+      "price": 45.0,
+      "status": true,
+      "stock": 200,
+      "category": "Suplementos",
+      "thumbnails": [
+        "/images/proteina_whey_1.jpg",
+        "/images/proteina_whey_2.jpg"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Banda Elástica",
+      "description": "Banda elástica para ejercicios de resistencia.",
+      "code": "BAND-001",
+      "price": 12.99,
+      "status": true,
+      "stock": 150,
+      "category": "Accesorios",
+      "thumbnails": [
+        "/images/banda_elastica_1.jpg",
+        "/images/banda_elastica_2.jpg"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Reloj Deportivo",
+      "description": "Reloj con monitor de ritmo cardíaco y funciones para entrenamiento.",
+      "code": "RELOJ-001",
+      "price": 120.0,
+      "status": true,
+      "stock": 75,
+      "category": "Accesorios",
+      "thumbnails": [
+        "/images/reloj_deportivo_1.jpg",
+        "/images/reloj_deportivo_2.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Mancuernas",
+      "description": "Par de mancuernas ajustables, ideales para entrenamientos en casa.",
+      "code": "MANC-001",
+      "price": 50.0,
+      "status": true,
+      "stock": 80,
+      "category": "Equipamiento",
+      "thumbnails": [
+        "/images/mancuernas_1.jpg",
+        "/images/mancuernas_2.jpg"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Bicicleta Estática",
+      "description": "Bicicleta estática para entrenamientos de cardio en casa.",
+      "code": "BICI-001",
+      "price": 250.0,
+      "status": true,
+      "stock": 30,
+      "category": "Equipamiento",
+      "thumbnails": [
+        "/images/bicicleta_estatica_1.jpg",
+        "/images/bicicleta_estatica_2.jpg"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Soga para Salto",
+      "description": "Soga ajustable para entrenamiento cardiovascular.",
+      "code": "SOGA-001",
+      "price": 15.0,
+      "status": true,
+      "stock": 100,
+      "category": "Accesorios",
+      "thumbnails": [
+        "/images/soga_salto_1.jpg",
+        "/images/soga_salto_2.jpg"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Máquina de Abdominales",
+      "description": "Máquina compacta para realizar ejercicios abdominales.",
+      "code": "ABDOM-001",
+      "price": 150.0,
+      "status": true,
+      "stock": 40,
+      "category": "Equipamiento",
+      "thumbnails": [
+        "/images/maquina_abdominales_1.jpg",
+        "/images/maquina_abdominales_2.jpg"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Aceite de Coco",
+      "description": "Aceite de coco orgánico para salud y belleza.",
+      "code": "ACEITE-001",
+      "price": 18.5,
+      "status": true,
+      "stock": 120,
+      "category": "Suplementos",
+      "thumbnails": [
+        "/images/aceite_coco_1.jpg",
+        "/images/aceite_coco_2.jpg"
+      ]
+    }
+  ]
+  
